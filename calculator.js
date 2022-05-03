@@ -14,7 +14,7 @@ app.post("/", function(req, res) {
   var height = parseFloat(req.body.height);
 
   var result = weight / (height * height);
-  res.send("Your BMI is" + result);
+  res.send("Your BMI is " + result);
 });
 app.listen(process.env.PORT || 3000, function() {
   console.log("server started on port 3000");
