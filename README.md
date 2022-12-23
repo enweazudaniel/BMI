@@ -15,6 +15,3 @@ This website allows users to calculate their body mass index (BMI) by entering t
 - BMI formula: [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/body-mass-index-bmi)
 - Inspiration for website design: [NHS BMI calculator](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/)
 
-## Acknowledgements
-
-- Special thanks to [OpenAI](https://openai.com/) for providing the Assistant to answer questions about this project.
